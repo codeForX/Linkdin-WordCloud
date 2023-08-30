@@ -2,3 +2,4 @@ streamlit
 altair<5
 wordcloud
 streamlit-extras
+git+https://github.com/tomquirk/linkedin-api.git
